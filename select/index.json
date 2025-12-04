@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "魚を追いかけて",
+  "base_artist": "超☆社会的サンダル",
+  "createdAt": "2025-12-04T01:40:37.429027Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魚を追いかけて",
+      "artist": "超☆社会的サンダル",
+      "has_synced": false,
+      "path": "select/pl_01_魚を追いかけて_超☆社会的サンダル.txt"
+    }
+  ]
+}
